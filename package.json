@@ -1,6 +1,6 @@
 {
   "name": "x264-static",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Static binaries for the `x264` command.",
   "main": "index.js",
   "scripts": {
