@@ -1,0 +1,26 @@
+{
+  "name": "x264-static",
+  "version": "0.0.0",
+  "description": "Static binaries for the `x264` command.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "x264",
+    "static",
+    "binary",
+    "command",
+    "compiled"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/x264-static.git"
+  },
+  "bugs": {
+    "url": "https://github.com/little-core-labs/x264-static/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/x264-static#readme"
+}
